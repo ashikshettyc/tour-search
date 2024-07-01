@@ -46,7 +46,7 @@ function App() {
         />
       </div>
       <div className="w-full max-w-xl">
-        <Tours filterData={filterData} />
+        <Tours filterData={filterData} tours={tours} />
       </div>
     </div>
   );
