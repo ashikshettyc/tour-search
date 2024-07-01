@@ -2,7 +2,7 @@ import React from 'react'
 import { FaBookmark, FaShareAlt } from 'react-icons/fa'
 
 
-function Tours({filterData, tours}) {
+function Tours({filterData}) {
    
   return (
     <div>
